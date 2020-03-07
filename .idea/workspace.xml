@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1a246b2-6621-4ab0-b66a-e77aad316761" name="Default Changelist" comment="" />
+    <list default="true" id="f1a246b2-6621-4ab0-b66a-e77aad316761" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cbt/utilities/TitleVerification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cbt/utilities/TitleVerification2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cbt/utilities/TitleVerification3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cbt/tests/NavigationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cbt/tests/NavigationTests.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="BasicNavigationTests" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -14,6 +24,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -23,7 +36,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1YmaCPOm6ydbvLfyPVda0oRe9Nt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -40,13 +55,52 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TitleVerification2">
     <configuration name="NavigationTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cbt.tests.NavigationTests" />
       <module name="BasicNavigationTestsHomework1" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.cbt.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TitleVerification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cbt.utilities.TitleVerification" />
+      <module name="BasicNavigationTestsHomework1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cbt.utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TitleVerification2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cbt.utilities.TitleVerification2" />
+      <module name="BasicNavigationTestsHomework1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cbt.utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TitleVerification3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cbt.utilities.TitleVerification3" />
+      <module name="BasicNavigationTestsHomework1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cbt.utilities.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,6 +157,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TitleVerification2" />
+        <item itemvalue="Application.TitleVerification3" />
+        <item itemvalue="Application.TitleVerification" />
         <item itemvalue="Application.NavigationTests" />
       </list>
     </recent_temporary>
@@ -119,5 +176,16 @@
       <updated>1583550094674</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
