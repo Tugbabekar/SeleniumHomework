@@ -3,6 +3,9 @@ package com.cbt.tests;
 import com.cbt.utilities.BrowserFactory;
 import com.cbt.utilities.StringUtility;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.safari.SafariDriver;
 
 /*
 1-Create class NavigationTests under tests package.
@@ -25,11 +28,6 @@ Test Case
  */
 public class NavigationTests {
 
-
-    static WebDriver driver;
-
-
-
     public static void main(String[] args) {
 
         testChrome();
@@ -41,7 +39,8 @@ public class NavigationTests {
     public static void testChrome() {
 
 
-        driver = BrowserFactory.getDriver("chrome");
+      BrowserFactory.getDriver("chrome");
+      WebDriver driver =new ChromeDriver();
         driver.get("https://google.com");
         String title = driver.getTitle();
         driver.get("https://etsy.com");
@@ -57,7 +56,8 @@ public class NavigationTests {
     }
     public static void testFirefox(){
 
-        driver = BrowserFactory.getDriver("firefox");
+        BrowserFactory.getDriver("firefox");
+        WebDriver driver =new FirefoxDriver();
         driver.get("https://google.com");
         String title = driver.getTitle();
         driver.get("https://etsy.com");
@@ -73,7 +73,8 @@ public class NavigationTests {
 
     public static void testSafari(){
 
-        driver = BrowserFactory.getDriver("safari");
+       BrowserFactory.getDriver("safari");
+       WebDriver driver =new SafariDriver();
         driver.get("https://google.com");
         String title = driver.getTitle();
         driver.get("https://etsy.com");
