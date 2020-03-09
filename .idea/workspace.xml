@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f1a246b2-6621-4ab0-b66a-e77aad316761" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cbt/tests/NavigationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cbt/tests/NavigationTests.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TitleVerification2">
+  <component name="RunManager" selected="Application.NavigationTests">
     <configuration name="NavigationTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cbt.tests.NavigationTests" />
       <module name="BasicNavigationTestsHomework1" />
@@ -105,10 +106,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NavigationTests" />
         <item itemvalue="Application.TitleVerification2" />
         <item itemvalue="Application.TitleVerification" />
         <item itemvalue="Application.TitleVerification3" />
-        <item itemvalue="Application.NavigationTests" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583639264330</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="homework">
+      <created>1583722785896</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583722785897</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,6 +170,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Selenium Homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selenium Homework" />
+    <MESSAGE value="homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework" />
   </component>
 </project>

@@ -39,8 +39,7 @@ public class NavigationTests {
     public static void testChrome() {
 
 
-      BrowserFactory.getDriver("chrome");
-      WebDriver driver =new ChromeDriver();
+        WebDriver driver = BrowserFactory.getDriver("chrome");
         driver.get("https://google.com");
         String title = driver.getTitle();
         driver.get("https://etsy.com");
@@ -56,8 +55,7 @@ public class NavigationTests {
     }
     public static void testFirefox(){
 
-        BrowserFactory.getDriver("firefox");
-        WebDriver driver =new FirefoxDriver();
+        WebDriver driver = BrowserFactory.getDriver("firefox");
         driver.get("https://google.com");
         String title = driver.getTitle();
         driver.get("https://etsy.com");
@@ -73,8 +71,7 @@ public class NavigationTests {
 
     public static void testSafari(){
 
-       BrowserFactory.getDriver("safari");
-       WebDriver driver =new SafariDriver();
+        WebDriver driver = BrowserFactory.getDriver("safari");
         driver.get("https://google.com");
         String title = driver.getTitle();
         driver.get("https://etsy.com");
