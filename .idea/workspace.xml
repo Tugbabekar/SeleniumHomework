@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f1a246b2-6621-4ab0-b66a-e77aad316761" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cbt/tests/NavigationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cbt/tests/NavigationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cbt/utilities/TitleVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cbt/utilities/TitleVerification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cbt/utilities/TitleVerification2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cbt/utilities/TitleVerification2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cbt/utilities/TitleVerification3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cbt/utilities/TitleVerification3.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -134,7 +130,21 @@
       <option name="project" value="LOCAL" />
       <updated>1583565318868</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Selenium Homework">
+      <created>1583639145186</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583639145186</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Selenium Homework">
+      <created>1583639264330</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583639264330</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
